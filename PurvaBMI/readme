@@ -1,0 +1,47 @@
+Purva Chakravarti
+CWID: 802344432
+email id: purvachakravarti@csu.fullerton.edu
+Date: 25th September 2015
+
+
+Description of my program:
+
+My Program has the following abilities to perform:
+1. It takes values either in inches and pounds or in centimeters and kilograms.
+2. It has a switch button to convert in/lbs to cm/kg and vice-versa.
+3. It has a calculate button which on pressing calculates the BMI in lbs/in and in kg/m^2 and provides the same result approximately in both the cases.
+4. It also shows the BMI value comes under which range along with its description
+5. It also shows a chart of the ranges provided by the WHO on clicking the calculate button.
+6. It also shows a picture fir the associated BMI range and description
+
+
+The prospective and solution of the assignment has been completely met in  my program.
+
+Use of the Program:
+It can be used in calculating BMI in medical departments.
+
+
+Code Implementation:
+1. I have created the Main.storyboard by using different labels,switch,button,text boxes,images
+
+2. I started coding in viewcontroller.h,where I have connected all the attributes of the storyboard
+
+3. Then In ViewController.m I have implemented the actual coding.
+
+4. I have also created a singleton class named as Person.m which imports Person.h
+
+5. I have created two methods called inchToCm_lbsToKg and cmToInch_KgTolbs
+ for converting purpose.
+
+6. Also i created a sPerson instance of Person class so that i can use it in the view controller.m to make it singleton.
+
+7. The methods i implemented in the Person.m are called in the viewcontroller.m by creating an object of the singleton class.
+
+8. In view controller I have taken the values from the textbox,converted into double value and stored in a variable which I have initialised in my singleton class.
+
+9. I have calculated the BMI using its formula.
+
+10. I have added the ranges and connected the images as well which i have done by creating an object of UIImage class
+
+This is the brief idea of how I have implemented the program
+

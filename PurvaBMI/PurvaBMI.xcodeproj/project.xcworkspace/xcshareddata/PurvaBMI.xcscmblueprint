@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "275ED8554234AB0EA39E1C6F3AD15456CA70D951",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "41A10D109E8129D62EB1978E2E225E8D5DD58C36" : 0,
+    "C63A8EFB72B91F911F1DA9660C3E8700AAC25321" : 0,
+    "275ED8554234AB0EA39E1C6F3AD15456CA70D951" : 0,
+    "945A16B409944937062317D7C535A02932312765" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F96673B3-BE4B-4559-B309-A034B6C0BEF1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "41A10D109E8129D62EB1978E2E225E8D5DD58C36" : "Purvachakravartirepo411\/CS411SampleCode\/",
+    "C63A8EFB72B91F911F1DA9660C3E8700AAC25321" : "Purvachakravartirepo411\/",
+    "275ED8554234AB0EA39E1C6F3AD15456CA70D951" : "asgt3\/",
+    "945A16B409944937062317D7C535A02932312765" : "Purvachakravartirepo411\/assignments\/asgt2\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PurvaBMI",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PurvaBMI\/PurvaBMI.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "nov.ecs.fullerton.edu:cs411f15\/chakravartip\/asgt3",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "275ED8554234AB0EA39E1C6F3AD15456CA70D951"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mshafae\/CS411SampleCode",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "41A10D109E8129D62EB1978E2E225E8D5DD58C36"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "nov.ecs.fullerton.edu:cs411s15\/chakravartip\/asgt2",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "945A16B409944937062317D7C535A02932312765"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Purvachakravarti\/Purvachakravartirepo411.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C63A8EFB72B91F911F1DA9660C3E8700AAC25321"
+    }
+  ]
+}
