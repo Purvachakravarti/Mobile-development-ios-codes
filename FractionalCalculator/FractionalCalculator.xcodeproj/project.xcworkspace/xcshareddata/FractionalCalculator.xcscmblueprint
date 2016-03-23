@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FC75249BE3F136474ACBAF2BCDAF2C5DEB15ECF9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FC75249BE3F136474ACBAF2BCDAF2C5DEB15ECF9" : 0,
+    "C63A8EFB72B91F911F1DA9660C3E8700AAC25321" : 0,
+    "F16B9D45A426D81A99575DECAB30C8929F1423FD" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D42B352A-2F50-4D93-A1BA-C8CF48D641AA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FC75249BE3F136474ACBAF2BCDAF2C5DEB15ECF9" : "asgt5\/",
+    "C63A8EFB72B91F911F1DA9660C3E8700AAC25321" : "..\/..\/..\/..\/Desktop\/Purvachakravartirepo411",
+    "F16B9D45A426D81A99575DECAB30C8929F1423FD" : "asgt7"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FractionalCalculator",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FractionalCalculator\/FractionalCalculator.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Purvachakravarti\/Purvachakravartirepo411.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C63A8EFB72B91F911F1DA9660C3E8700AAC25321"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "nov.ecs.fullerton.edu:cs411s15\/shahj\/asgt7.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F16B9D45A426D81A99575DECAB30C8929F1423FD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "nov.ecs.fullerton.edu:cs411f15\/chakravartip\/asgt5",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FC75249BE3F136474ACBAF2BCDAF2C5DEB15ECF9"
+    }
+  ]
+}
