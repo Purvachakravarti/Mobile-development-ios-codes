@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "08800E50806285D9A902A1A0354A459C70753310",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "08800E50806285D9A902A1A0354A459C70753310" : 0,
+    "C63A8EFB72B91F911F1DA9660C3E8700AAC25321" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "963852D7-8ABC-4235-83AB-47B28C025451",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "08800E50806285D9A902A1A0354A459C70753310" : "asgt9\/",
+    "C63A8EFB72B91F911F1DA9660C3E8700AAC25321" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HeightMeasuringByCam",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HeightMeasuringByCam\/HeightMeasuringByCam.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "nov.ecs.fullerton.edu:cs411f15\/chakravartip\/asgt9",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "08800E50806285D9A902A1A0354A459C70753310"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Purvachakravarti\/Purvachakravartirepo411.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C63A8EFB72B91F911F1DA9660C3E8700AAC25321"
+    }
+  ]
+}
